@@ -1,0 +1,5 @@
+# Ignoring dataset
+/flickr8k
+/.idea
+/test_examples
+/runs
